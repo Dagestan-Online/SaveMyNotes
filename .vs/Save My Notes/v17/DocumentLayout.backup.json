@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|c:\\users\\vlad2\\desktop\\save my notes\\save my notes\\pages\\noteinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|solutionrelative:save my notes\\pages\\noteinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|c:\\users\\vlad2\\desktop\\save my notes\\save my notes\\pages\\noteinfopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|solutionrelative:save my notes\\pages\\noteinfopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|c:\\users\\vlad2\\desktop\\save my notes\\save my notes\\pages\\noteslistpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|solutionrelative:save my notes\\pages\\noteslistpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|c:\\users\\vlad2\\desktop\\save my notes\\save my notes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|solutionrelative:save my notes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|c:\\users\\vlad2\\desktop\\save my notes\\save my notes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|solutionrelative:save my notes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|c:\\users\\vlad2\\desktop\\save my notes\\save my notes\\pages\\noteslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|solutionrelative:save my notes\\pages\\noteslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|c:\\users\\vlad2\\desktop\\save my notes\\save my notes\\classes\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|solutionrelative:save my notes\\classes\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|c:\\users\\vlad2\\desktop\\save my notes\\save my notes\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A42B4D3-A766-4E86-A5A7-71A16103C541}|Save My Notes\\Save My Notes.csproj|solutionrelative:save my notes\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteInfoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Pages\\NoteInfoPage.xaml.cs",
+              "RelativeDocumentMoniker": "Save My Notes\\Pages\\NoteInfoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Pages\\NoteInfoPage.xaml.cs",
+              "RelativeToolTip": "Save My Notes\\Pages\\NoteInfoPage.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:15:42.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Save My Notes\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Save My Notes\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:04:33.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Classes\\Note.cs",
+              "RelativeDocumentMoniker": "Save My Notes\\Classes\\Note.cs",
+              "ToolTip": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Classes\\Note.cs",
+              "RelativeToolTip": "Save My Notes\\Classes\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:00:37.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Pages\\NotesListPage.xaml.cs",
+              "RelativeDocumentMoniker": "Save My Notes\\Pages\\NotesListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Pages\\NotesListPage.xaml.cs",
+              "RelativeToolTip": "Save My Notes\\Pages\\NotesListPage.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:01:39.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Save My Notes\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\MainWindow.xaml",
+              "RelativeToolTip": "Save My Notes\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T14:04:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Save My Notes\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\ApplicationContext.cs",
+              "RelativeToolTip": "Save My Notes\\ApplicationContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:46:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteInfoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Pages\\NoteInfoPage.xaml",
+              "RelativeDocumentMoniker": "Save My Notes\\Pages\\NoteInfoPage.xaml",
+              "ToolTip": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Pages\\NoteInfoPage.xaml",
+              "RelativeToolTip": "Save My Notes\\Pages\\NoteInfoPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T19:15:01.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotesListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Pages\\NotesListPage.xaml",
+              "RelativeDocumentMoniker": "Save My Notes\\Pages\\NotesListPage.xaml",
+              "ToolTip": "C:\\Users\\vlad2\\Desktop\\Save My Notes\\Save My Notes\\Pages\\NotesListPage.xaml",
+              "RelativeToolTip": "Save My Notes\\Pages\\NotesListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T19:37:18.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
